@@ -1,8 +1,4 @@
 
-| [Website](http://links.otrenav.com/website) | [Twitter](http://links.otrenav.com/twitter) | [LinkedIn](http://links.otrenav.com/linkedin)  | [GitHub](http://links.otrenav.com/github) | [GitLab](http://links.otrenav.com/gitlab) | [CodeMentor](http://links.otrenav.com/codementor) |
-
----
-
 # Twitter Geographical Search
 
 - Omar Trejo
@@ -17,8 +13,6 @@ For example, I can use this application to find the nearest gas station when I'm
 on the road in Mexico City. The gas stations database for Mexico City is
 included in the `data` folder (it's public information).
 
-![Map of gas stations and keywords in Mexico City](http://s30.postimg.org/8sfljqbxt/Mexico_City.png)
-
 ## Usage
 
 To correctly setup your system you need to rename `setup_template.R` to
@@ -26,7 +20,8 @@ To correctly setup your system you need to rename `setup_template.R` to
 head over to [Twitter's developers site](http://dev.twitter.com), specifically
 to [your apps](https://apps.twitter.com/) and register a new application.
 
-> Note: The code is well documented, so you should not have any problems using it, but keep in mind that it's not being actively developed any more.
+> Note: The code is well documented, so you should not have any problems using
+> it, but keep in mind that it's not being actively developed any more.
 
 ## Instructions
 
@@ -48,11 +43,3 @@ to [your apps](https://apps.twitter.com/) and register a new application.
 > Note: if the entities file has addresses instead of coordinates to identify
 > locations, you can use the `geocode_database.R` file to find the geographical
 > coordinates.
-
-Feedback is welcome!
-
----
-
-> "The best ideas are common property."
->
-> —Seneca
