@@ -1,4 +1,6 @@
 
+[Delta Lab](https://links.deltalab.ai/website) | [Twitter](https://links.deltalab.ai/twitter) | [LinkedIn](https://links.deltalab.ai/linkedin)
+
 # Twitter Geographical Search
 
 - Omar Trejo
