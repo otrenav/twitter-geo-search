@@ -1,6 +1,8 @@
 
 [Delta Lab](https://links.deltalab.ai/website) | [Twitter](https://links.deltalab.ai/twitter) | [LinkedIn](https://links.deltalab.ai/linkedin)
 
+---
+
 # Twitter Geographical Search
 
 - Omar Trejo
@@ -45,3 +47,8 @@ to [your apps](https://apps.twitter.com/) and register a new application.
 > Note: if the entities file has addresses instead of coordinates to identify
 > locations, you can use the `geocode_database.R` file to find the geographical
 > coordinates.
+
+---
+
+> "We are the people we have been waiting for."
+
